@@ -1,8 +1,8 @@
 class IcloudMonitor < Formula
   desc "Terminal-based monitoring tool for macOS iCloud Drive"
   homepage "https://github.com/jhkchan/icloud-monitor"
-  url "https://github.com/jhkchan/icloud-monitor/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "5f63c4130231457b4ca18c370f1e03f821c9b7c31af17cb3ff67dc6afc516dca"
+  url "https://github.com/jhkchan/icloud-monitor/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "82530919097ba3d4ee990602b99d89a41f479743f186dedc2d25a12b2e75b0b1"
   license "MIT"
 
   depends_on "node"
